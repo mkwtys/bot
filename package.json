@@ -19,6 +19,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "hubot --name saru --adapter slack"
+    "robot": "hubot --adapter shell",
+    "start": "hubot --adapter slack"
   }
 }
