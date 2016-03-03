@@ -1,6 +1,6 @@
 {
   "name": "hubot",
-  "description": "hubot for my slack team",
+  "description": "hubot for slack",
   "version": "1.0.0",
   "author": "mkwtys <mkwtys@gmail.com>",
   "dependencies": {
